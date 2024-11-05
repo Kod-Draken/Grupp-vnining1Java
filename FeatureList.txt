@@ -1,0 +1,18 @@
+create two characters of the Player class
+
+randomize who attacks first each round
+
+choose weapon
+    different weapons deal different damage?
+
+different actions in combat
+    dodge
+    attack
+    heal
+
+Announce winner
+
+Keep track of high score
+
+Play again
+
